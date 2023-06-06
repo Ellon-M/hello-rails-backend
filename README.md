@@ -38,7 +38,7 @@
 - Rails 7
 - Postgres
 
-## [React Frontend Link](https://github.com/Ellon-M/hello-react-frontend)
+## [React Frontend Link](https://github.com/Ellon-M/hello-react-front-end)
 
 
 <details>
